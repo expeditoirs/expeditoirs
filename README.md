@@ -1,6 +1,5 @@
-- 👋 Olá, eu sou o @expeditoirs
-- 👀 Tenho interesse em linguagens como Java, PHP, Python
-- 🌱 Atualmente estou desenvolvendo uma aplicação para beneficiar empresas alimenticias 
-- 📫 Meu instagram: @expeditoirs
-- ⚡Eu já tenho sites publicados,com isso, adicionei  um ótimo projeto de PWA aqui, dá uma olhada lá
-
+* 👋 Olá! Eu sou o Expedito Iam
+* 💻 Tenho interesse e experiência com tecnologias como **Java, PHP e Python**
+* 🚀 Atualmente, estou desenvolvendo uma **plataforma de gestão para empresas do setor alimentício**, com foco em otimizar operações, pedidos e processos internos
+* 🎓 Estudante de **Sistemas de Informação**
+* 📫 Instagram: **@expeditoirs**
